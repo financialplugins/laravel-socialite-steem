@@ -22,7 +22,7 @@ class Provider extends AbstractProvider
     /**
      * @var string
      */
-    protected $domain = 'https://v2.steemconnect.com/';
+    protected $domain = 'https://api.steemconnect.com/';
 
     /**
      * {@inheritdoc}
