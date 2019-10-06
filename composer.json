@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/steem",
+    "name": "financialplugins/steem",
     "description": "Steem OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
